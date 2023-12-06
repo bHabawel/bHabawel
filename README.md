@@ -10,6 +10,7 @@
                 <li><i>An Associate Software Engineer 🧑‍💻</i></li>
             </ul>
         </li>
+        <br />
         <li><strong>What I'm building currently? 🌆</strong>
             <ul>
               <li><i>WordWise</i>
