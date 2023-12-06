@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Brent Ross Habawel, an Associate Software Engineer.
+A graduate of Bachelor of Science in Computer Science.
+- 🔭 I’m currently working on WorldWise. A web development system that can show multiple locations.
+- 🌱 I’m currently learning Redux and Supabase.
+- 👯 I’m looking to collaborate on an e-commerce project based on ReactJS, React Query, and Supabase that I will soon initiate.
 
 <!--
 **bHabawel/bHabawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
