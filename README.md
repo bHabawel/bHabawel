@@ -4,12 +4,19 @@
 
 <samp>
     <ul>
-        <li><strong>What I'm building on my spare time? 🌆</strong>
+        <li><strong>My Background? 🤔</strong>
+            <ul>
+              <li><i>A graduate of Bachelor of Science in Computer Science 🎓</i></li>
+                <li><i>An Associate Software Engineer 🧑‍💻</i></li>
+            </ul>
+        </li>
+        <li><strong>What I'm building currently? 🌆</strong>
             <ul>
               <li><i>WordWise</i>
                 <ul>
                   <li>A web development project that can show multiple location</li>
                 </ul>
+              </li>
             </ul>
         </li>
         <br/>
