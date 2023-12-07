@@ -13,7 +13,7 @@
         <br />
         <li><strong>What I'm building currently? 🌆</strong>
             <ul>
-              <li><i>WordWise</i>
+              <li><i>WorldWise</i>
                 <ul>
                   <li>A web development project that can show multiple location</li>
                 </ul>
