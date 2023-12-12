@@ -13,9 +13,9 @@
         <br />
         <li><strong>What I'm building currently? 🌆</strong>
             <ul>
-              <li><i>WorldWise</i>
+              <li><i>Fast React Pizza Co.</i>
                 <ul>
-                  <li>A web development project that can show multiple location</li>
+                  <li>A web development project that can show pizza informations, add delete and update</li>
                 </ul>
               </li>
             </ul>
@@ -25,7 +25,7 @@
             <ul>
                 <li>React Query 🌐</li>
                 <li>Supabase 🍪</li>
-                <li>Redux 🔨</li>
+                <li>React Tailwind 🔨</li>
             </ul>
         </li>
     </ul>
