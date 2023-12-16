@@ -13,9 +13,9 @@
         <br />
         <li><strong>What I'm building currently? 🌆</strong>
             <ul>
-              <li><i>Fast React Pizza Co.</i>
+              <li><i>The Wild Oasis</i>
                 <ul>
-                  <li>A web development project that can show pizza informations, add delete and update</li>
+                  <li>A web development project that can can manage the hotel like bookings, cabins, guests. </li>
                 </ul>
               </li>
             </ul>
