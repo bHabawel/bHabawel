@@ -25,7 +25,7 @@
             <ul>
                 <li>React Query 🌐</li>
                 <li>Supabase 🍪</li>
-                <li>React Tailwind 🔨</li>
+                <li>PHP 🔨</li>
             </ul>
         </li>
     </ul>
