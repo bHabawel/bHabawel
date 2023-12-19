@@ -15,7 +15,9 @@
             <ul>
               <li><i>The Wild Oasis</i>
                 <ul>
-                  <li>A web development project that can can manage the hotel like bookings, cabins, guests. </li>
+                  <li>A web development project that can manage the hotel like bookings, cabins, guests. </li>
+                    <li>It aslo have user authentication, darkmode, dashboard.</li>
+                    <li>It uses supabae for database and the project is also dynamic in adding, deleting, updating features to supabase</li>
                 </ul>
               </li>
             </ul>
@@ -23,9 +25,10 @@
         <br/>
         <li><strong>What I'm planning to study? 🧐</strong>
             <ul>
-                <li>React Query 🌐</li>
-                <li>Supabase 🍪</li>
                 <li>PHP 🔨</li>
+                <li>Firebase 🔥</li>
+                <li>Java Spring 🌐</li>
+                <li>Java Spring Boot ♨️</li>
             </ul>
         </li>
     </ul>
@@ -60,9 +63,9 @@
 <h2><samp>👓 BACKEND TECHNOLOGIES</samp></h2>
 
 <p style="padding: 0px 20px">
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Next%20JS-000000?logo=next-dot-js.svg&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Next%20JS-000000?logo=next-dot-js.svg&logoColor=white&style=for-the-badge" /> -->
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 <p>
 
