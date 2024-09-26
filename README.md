@@ -7,17 +7,19 @@
         <li><strong>My Background? 🤔</strong>
             <ul>
               <li><i>A graduate of Bachelor of Science in Computer Science 🎓</i></li>
-                <li><i>An Associate Software Engineer 🧑‍💻</i></li>
+              <li><i>Works at Accenture since January 8, 2024 🌎</i></li>
+              <li><i>An Associate Software Engineer 🧑‍💻</i></li>
+              <li><i>A SAP BTP Integration Suite | CPI Developer 💻</i></li>
             </ul>
         </li>
         <br />
         <li><strong>What I'm building currently? 🌆</strong>
             <ul>
-              <li><i>The Wild Oasis</i>
+              <li><i>Integration Flows</i>
                 <ul>
-                  <li>A web development project that can manage the hotel like bookings, cabins, guests. </li>
-                    <li>It aslo have user authentication, darkmode, dashboard.</li>
-                    <li>It uses supabae for database and the project is also dynamic in adding, deleting, updating features to supabase</li>
+                  <li>A SAP CPI Project that will migrate a Non-SAP System to SAP System. </li>
+                    <li>It involves different business partners that will be used by clients.</li>
+                    <li>It uses multiple functions to transform a raw data into a readable data</li>
                 </ul>
               </li>
             </ul>
@@ -25,10 +27,10 @@
         <br/>
         <li><strong>What I'm planning to study? 🧐</strong>
             <ul>
-                <li>PHP 🔨</li>
-                <li>Firebase 🔥</li>
-                <li>Java Spring 🌐</li>
-                <li>Java Spring Boot ♨️</li>
+                <li>In-depth SAP CPI Functions and Tools 🔨</li>
+                <li>Groovy 3.0 🔥</li>
+                <li>XSLT V2.0 🌐</li>
+                <li>E2E Testing ♨️</li>
             </ul>
         </li>
     </ul>
@@ -67,6 +69,12 @@
     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
     <img src="https://img.shields.io/badge/Next%20JS-000000?logo=next-dot-js.svg&logoColor=white&style=for-the-badge" /> -->
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+<p>
+
+<h2><samp>Ⓜ️ MIDDLEWARE TECHNOLOGIES</samp></h2>
+
+<p style="padding: 0px 20px">
+    <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white">
 <p>
 
 <h2><samp>⚡ DATABASE</samp></h2>
